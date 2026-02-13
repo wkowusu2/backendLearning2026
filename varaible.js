@@ -10,7 +10,4 @@ m = 6;
 
 const a = 7; 
 
-a = 5;
-
-console.log(a)
  
